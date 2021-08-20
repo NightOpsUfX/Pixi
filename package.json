@@ -1,0 +1,15 @@
+{
+  "name": "pixitrial",
+  "version": "1.0.0",
+  "description": "pixitrial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leon",
+  "license": "ISC",
+  "dependencies": {
+    "@pixi/graphics-extras": "^6.1.1",
+    "pixi.js": "^6.1.1"
+  }
+}
